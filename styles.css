@@ -15,13 +15,13 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #f4f4f4;
-    background: url("_02be57cc-c17a-4ba5-ac47-22e243911964.jpeg");
     height: 90vh;
     width: 100%;
     background-size: cover;
     background-position: center;
     }
-}
+
+    
 
 /* Header styles */
 .l-header {
