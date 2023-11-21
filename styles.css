@@ -15,16 +15,14 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #f4f4f4;
-
+    background-image: ;
     height: 90vh;
     width: 100%;
     background-size: cover;
     background-position: center;
     }
 
-.back{
-    background-image: url(img.jpeg);
-}
+    
 
 /* Header styles */
 .l-header {
